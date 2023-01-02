@@ -2,5 +2,6 @@ The Rainbow and the Unicorn
 Puuple
 Pink
 Green
+Red
 Yellow
 orange
